@@ -1,6 +1,6 @@
-# LAB - Class xx
+# 401 LAB - 02
 
-## Project: Project Name Here
+## Project: Basic Express Server
 
 ### Author: Clement Buchanan
 
@@ -39,5 +39,6 @@
 
 ### Pull Requests
 
-- [Completed Lab-02](https://github.com/ClementBuchanan/basic-express-server/pull/1)
-- [Updated Package.json](https://github.com/ClementBuchanan/basic-express-server/pull/2)
+- [PR 1 - Completed Lab-02](https://github.com/ClementBuchanan/basic-express-server/pull/1)
+- [PR 2 - Updated Package.json](https://github.com/ClementBuchanan/basic-express-server/pull/2)
+- [PR 3 - Updated & completed readme.md](https://github.com/ClementBuchanan/basic-express-server/pull/3)
